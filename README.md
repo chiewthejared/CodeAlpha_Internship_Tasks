@@ -3,7 +3,7 @@
 For CodeAlpha Internship (Task 1 - 3)
 
 ## Directory
-.
+```.
 ├── Task 1
 │   ├── Task1.ipynb
 │   └── (dataset / supporting files)
@@ -19,3 +19,4 @@ For CodeAlpha Internship (Task 1 - 3)
 │   └── (dataset / results)
 │
 └── README.md
+```
