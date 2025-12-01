@@ -6,17 +6,23 @@ For CodeAlpha Internship (Task 1 - 3)
 ```.
 ├── Task 1
 │   ├── Task1.ipynb
-│   └── (dataset / supporting files)
+│   └── iris.best_model.pkl (will be replaced / generated when Task1.ipynb runs)
 │
 ├── Task 2
 │   ├── Task2.py
-│   ├── Task2.ipynb
-│   └── (dataset / results)
+│   ├── unemployment.csv
+│   └── results
+│       ├── monthly_timeseries.csv
+│       ├── monthly_timeseries.png
+│       ├── preprocessed_input.csv
 │
 ├── Task 3
 │   ├── Task3.py
 │   ├── Task3.ipynb
-│   └── (dataset / results)
+│   └── car data.csv
+│   └── results
+│       ├── metrics.txt
+│       ├── rf_model.joblib
 │
 └── README.md
 ```
